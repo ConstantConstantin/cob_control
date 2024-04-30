@@ -2,6 +2,13 @@
 Changelog for package cob_obstacle_distance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#282 <https://github.com/4am-robotics/cob_control/issues/282>`_ from fmessmer/fix/link_ccd
+  fix undefined reference to symbol ccd_vec3_origin
+* fix undefined reference to symbol 'ccd_vec3_origin'
+* Contributors: Felix Messmer, fmessmer
+
 0.8.23 (2024-02-20)
 -------------------
 * Merge pull request `#281 <https://github.com/4am-robotics/cob_control/issues/281>`_ from fmessmer/feature/optimize_workspace
